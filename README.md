@@ -1,5 +1,5 @@
 # CTFS
-## CTFS challenges ##
+### CTFS challenges ###
 ```c
 #include <time.out>
 ```
